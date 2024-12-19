@@ -1,6 +1,5 @@
 import json
 import urllib.request
-import time
 import streamlit as st
 from datetime import datetime, timezone
 import requests
