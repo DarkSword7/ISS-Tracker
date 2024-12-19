@@ -5,7 +5,6 @@ import streamlit as st
 from datetime import datetime, timezone
 import requests
 import pandas as pd
-import plotly.graph_objects as go
 import pydeck as pdk
 
 # Function to fetch data from API
